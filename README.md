@@ -15,3 +15,9 @@ Create a command-line password generator in Python that generates random passwor
 Task 4(Weather Application):
 ==
 Create a command-line weather app in Python that fetches and displays current weather data for a user-specified location (e.g., city or ZIP code) using a weather API. Show basic information such as temperature, humidity, and weather conditions.
+
+Task 5(Chat Application):
+==
+Create a basic text-based chat application in Python where two users can exchange messages in real-time using the command line. Implement a simple client-server model for message exchange.
+![image](https://github.com/sarthak9912/OIBSIP/assets/158767826/36d1dc89-a1c0-46cb-89f7-f9bf71fad39d)
+
